@@ -1,1503 +1,1562 @@
-[
-    {
-      "number": 1,
-      "location": "John 3:16",
-      "theme": "Love",
-      "verse": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
-    },
-    {
-      "number": 2,
-      "location": "Romans 5:8",
-      "theme": "Love",
-      "verse": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."
-    },
-    {
-      "number": 3,
-      "location": "1 Corinthians 13:4-8a",
-      "theme": "Love",
-      "verse": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
-    },
-    {
-      "number": 4,
-      "location": "1 John 4:7-8",
-      "theme": "Love",
-      "verse": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love."
-    },
-    {
-      "number": 5,
-      "location": "Ephesians 5:25",
-      "theme": "Love",
-      "verse": "Husbands, love your wives, just as Christ loved the church and gave himself up for her."
-    },
-    {
-      "number": 6,
-      "location": "Galatians 5:22-23",
-      "theme": "Love",
-      "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."
-    },
-    {
-      "number": 7,
-      "location": "Colossians 3:14",
-      "theme": "Love",
-      "verse": "And over all these virtues put on love, which binds them all together in perfect unity."
-    },
-    {
-      "number": 8,
-      "location": "1 John 4:19",
-      "theme": "Love",
-      "verse": "We love because he first loved us."
-    },
-    {
-      "number": 9,
-      "location": "Matthew 22:37-39",
-      "theme": "Love",
-      "verse": "Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’"
-    },
-    {
-      "number": 10,
-      "location": "Romans 13:10",
-      "theme": "Love",
-      "verse": "Love does no harm to a neighbor. Therefore, love is the fulfillment of the law."
-    },
-    {
-      "number": 11,
-      "location": "1 Corinthians 16:14",
-      "theme": "Love",
-      "verse": "Do everything in love."
-    },
-    {
-      "number": 12,
-      "location": "Song of Solomon 8:7",
-      "theme": "Love",
-      "verse": "Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of one’s house for love, it would be utterly scorned."
-    },
-    {
-      "number": 13,
-      "location": "Proverbs 10:12",
-      "theme": "Love",
-      "verse": "Hatred stirs up conflict, but love covers over all wrongs."
-    },
-    {
-      "number": 14,
-      "location": "1 John 4:18",
-      "theme": "Love",
-      "verse": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."
-    },
-    {
-      "number": 15,
-      "location": "1 Peter 4:8",
-      "theme": "Love",
-      "verse": "Above all, love each other deeply, because love covers over a multitude of sins."
-    },
-    {
-      "number": 16,
-      "location": "Romans 12:9",
-      "theme": "Love",
-      "verse": "Love must be sincere. Hate what is evil; cling to what is good."
-    },
-    {
-      "number": 17,
-      "location": "1 Corinthians 13:13",
-      "theme": "Love",
-      "verse": "And now these three remain: faith, hope and love. But the greatest of these is love."
-    },
-    {
-      "number": 18,
-      "location": "1 Thessalonians 3:12",
-      "theme": "Love",
-      "verse": "May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you."
-    },
-    {
-      "number": 19,
-      "location": "1 John 4:11",
-      "theme": "Love",
-      "verse": "Dear friends, since God so loved us, we also ought to love one another."
-    },
-    {
-      "number": 20,
-      "location": "1 John 3:18",
-      "theme": "Love",
-      "verse": "Dear children, let us not love with words or speech but with actions and in truth."
-    },
-    {
-      "number": 21,
-      "location": "John 15:13",
-      "theme": "Love",
-      "verse": "Greater love has no one than this: to lay down one’s life for one’s friends."
-    },
-    {
-      "number": 22,
-      "location": "1 John 3:1",
-      "theme": "Love",
-      "verse": "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him."
-    },
-    {
-      "number": 23,
-      "location": "Ephesians 3:17-19",
-      "theme": "Love",
-      "verse": "And I pray that you, being rooted and established in love, may have power, together with all the Lord’s holy people, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God."
-    },
-    {
-      "number": 24,
-      "location": "1 John 4:16",
-      "theme": "Love",
-      "verse": "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them."
-    },
-    {
-      "number": 25,
-      "location": "1 John 4:21",
-      "theme": "Love",
-      "verse": "And he has given us this command: Anyone who loves God must also love their brother and sister."
-    },
-    {
-      "number": 26,
-      "location": "John 13:34-35",
-      "theme": "Love",
-      "verse": "A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another."
-    },
-    {
-      "number": 27,
-      "location": "Luke 6:27",
-      "theme": "Love",
-      "verse": "But to you who are listening I say: Love your enemies, do good to those who hate you."
-    },
-    {
-      "number": 28,
-      "location": "Romans 8:38-39",
-      "theme": "Love",
-      "verse": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
-    },
-    {
-      "number": 29,
-      "location": "1 John 4:10",
-      "theme": "Love",
-      "verse": "This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins."
-    },
-    {
-      "number": 30,
-      "location": "Deuteronomy 6:5",
-      "theme": "Love",
-      "verse": "Love the Lord your God with all your heart and with all your soul and with all your strength."
-    },
-    {
-      "number": 31,
-      "location": "1 John 4:12",
-      "theme": "Love",
-      "verse": "No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us."
-    },
-    {
-      "number": 32,
-      "location": "Ephesians 4:2",
-      "theme": "Love",
-      "verse": "Be completely humble and gentle; be patient, bearing with one another in love."
-    },
-    {
-      "number": 33,
-      "location": "1 Corinthians 8:3",
-      "theme": "Love",
-      "verse": "But whoever loves God is known by God."
-    },
-    {
-      "number": 34,
-      "location": "Romans 12:10",
-      "theme": "Love",
-      "verse": "Be devoted to one another in love. Honor one another above yourselves."
-    },
-    {
-      "number": 35,
-      "location": "1 John 4:8",
-      "theme": "Love",
-      "verse": "Whoever does not love does not know God, because God is love."
-    },
-    {
-      "number": 36,
-      "location": "Matthew 5:44",
-      "theme": "Love",
-      "verse": "But I tell you, love your enemies and pray for those who persecute you."
-    },
-    {
-      "number": 37,
-      "location": "1 Corinthians 14:1",
-      "theme": "Love",
-      "verse": "Follow the way of love and eagerly desire gifts of the Spirit, especially prophecy."
-    },
-    {
-      "number": 38,
-      "location": "1 John 4:9",
-      "theme": "Love",
-      "verse": "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him."
-    },
-    {
-      "number": 39,
-      "location": "Romans 13:8",
-      "theme": "Love",
-      "verse": "Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law."
-    },
-    {
-      "number": 40,
-      "location": "Romans 5:5",
-      "theme": "Love",
-      "verse": "And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
-    },
-    {
-      "number": 41,
-      "location": "Jude 1:21",
-      "theme": "Love",
-      "verse": "Keep yourselves in God’s love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life."
-    },
-    {
-      "number": 42,
-      "location": "1 John 4:20",
-      "theme": "Love",
-      "verse": "Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen."
-    },
-    {
-      "number": 43,
-      "location": "Proverbs 17:17",
-      "theme": "Love",
-      "verse": "A friend loves at all times, and a brother is born for a time of adversity."
-    },
-    {
-      "number": 44,
-      "location": "Ephesians 2:4-5",
-      "theme": "Love",
-      "verse": "But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."
-    },
-    {
-      "number": 45,
-      "location": "1 Peter 1:22",
-      "theme": "Love",
-      "verse": "Now that you have purified yourselves by obeying the truth so that you have sincere love for each other, love one another deeply, from the heart."
-    },
-    {
-      "number": 46,
-      "location": "1 John 4:17",
-      "theme": "Love",
-      "verse": "This is how love is made complete among us so that we will have confidence on the day of judgment: In this world we are like Jesus."
-    },
-    {
-      "number": 47,
-      "location": "1 Corinthians 16:14",
-      "theme": "Love",
-      "verse": "Do everything in love."
-    },
-    {
-      "number": 48,
-      "location": "John 14:15",
-      "theme": "Love",
-      "verse": "“If you love me, keep my commands."
-    },
-    {
-      "number": 49,
-      "location": "1 Peter 4:10",
-      "theme": "Love",
-      "verse": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."
-    },
-    {
-      "number": 50,
-      "location": "Romans 8:28",
-      "theme": "Love",
-      "verse": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
-    },
-    {
-      "number": 51,
-      "location": "Ephesians 2:8-9",
-      "theme": "Grace",
-      "verse": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."
-    },
-    {
-      "number": 52,
-      "location": "Romans 6:14",
-      "theme": "Grace",
-      "verse": "For sin shall no longer be your master, because you are not under the law, but under grace."
-    },
-    {
-      "number": 53,
-      "location": "2 Corinthians 12:9",
-      "theme": "Grace",
-      "verse": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me."
-    },
-    {
-      "number": 54,
-      "location": "Titus 2:11",
-      "theme": "Grace",
-      "verse": "For the grace of God has appeared that offers salvation to all people."
-    },
-    {
-      "number": 55,
-      "location": "Romans 5:20",
-      "theme": "Grace",
-      "verse": "But where sin increased, grace increased all the more."
-    },
-    {
-      "number": 56,
-      "location": "Hebrews 4:16",
-      "theme": "Grace",
-      "verse": "Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
-    },
-    {
-      "number": 57,
-      "location": "James 4:6",
-      "theme": "Grace",
-      "verse": "But he gives us more grace. That is why Scripture says: “God opposes the proud but shows favor to the humble.”"
-    },
-    {
-      "number": 58,
-      "location": "Romans 11:6",
-      "theme": "Grace",
-      "verse": "And if by grace, then it cannot be based on works; if it were, grace would no longer be grace."
-    },
-    {
-      "number": 59,
-      "location": "Ephesians 1:7-8",
-      "theme": "Grace",
-      "verse": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace that he lavished on us. With all wisdom and understanding,"
-    },
-    {
-      "number": 60,
-      "location": "1 Peter 5:10",
-      "theme": "Grace",
-      "verse": "And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast."
-    },
-    {
-      "number": 61,
-      "location": "Romans 3:24",
-      "theme": "Grace",
-      "verse": "and all are justified freely by his grace through the redemption that came by Christ Jesus."
-    },
-    {
-      "number": 62,
-      "location": "Ephesians 4:7",
-      "theme": "Grace",
-      "verse": "But to each one of us grace has been given as Christ apportioned it."
-    },
-    {
-      "number": 63,
-      "location": "John 1:16",
-      "theme": "Grace",
-      "verse": "Out of his fullness we have all received grace in place of grace already given."
-    },
-    {
-      "number": 64,
-      "location": "2 Timothy 1:9",
-      "theme": "Grace",
-      "verse": "He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time."
-    },
-    {
-      "number": 65,
-      "location": "Acts 15:11",
-      "theme": "Grace",
-      "verse": "No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are."
-    },
-    {
-      "number": 66,
-      "location": "2 Corinthians 9:8",
-      "theme": "Grace",
-      "verse": "And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work."
-    },
-    {
-      "number": 67,
-      "location": "Colossians 3:16",
-      "theme": "Grace",
-      "verse": "Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts."
-    },
-    {
-      "number": 68,
-      "location": "Acts 20:32",
-      "theme": "Grace",
-      "verse": "“Now I commit you to God and to the word of his grace, which can build you up and give you an inheritance among all those who are sanctified."
-    },
-    {
-      "number": 69,
-      "location": "Romans 6:15",
-      "theme": "Grace",
-      "verse": "What then? Shall we sin because we are not under the law but under grace? By no means!"
-    },
-    {
-      "number": 70,
-      "location": "Hebrews 12:15",
-      "theme": "Grace",
-      "verse": "See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many."
-    },
-    {
-      "number": 71,
-      "location": "1 Corinthians 1:4",
-      "theme": "Grace",
-      "verse": "I always thank my God for you because of his grace given you in Christ Jesus."
-    },
-    {
-      "number": 72,
-      "location": "Titus 3:7",
-      "theme": "Grace",
-      "verse": "So that, having been justified by his grace, we might become heirs having the hope of eternal life."
-    },
-    {
-      "number": 73,
-      "location": "Acts 11:23",
-      "theme": "Grace",
-      "verse": "When he arrived and saw what the grace of God had done, he was glad and encouraged them all to remain true to the Lord with all their hearts."
-    },
-    {
-      "number": 74,
-      "location": "Romans 5:2",
-      "theme": "Grace",
-      "verse": "through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God."
-    },
-    {
-      "number": 75,
-      "location": "2 Corinthians 8:9",
-      "theme": "Grace",
-      "verse": "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you through his poverty might become rich."
-    },
-    {
-      "number": 76,
-      "location": "Ephesians 2:5",
-      "theme": "Grace",
-      "verse": "made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."
-    },
-    {
-      "number": 77,
-      "location": "Hebrews 13:9",
-      "theme": "Grace",
-      "verse": "Do not be carried away by all kinds of strange teachings. It is good for our hearts to be strengthened by grace, not by eating ceremonial foods, which is of no benefit to those who do so."
-    },
-    {
-      "number": 78,
-      "location": "James 1:17",
-      "theme": "Grace",
-      "verse": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows."
-    },
-    {
-      "number": 79,
-      "location": "Romans 6:1",
-      "theme": "Grace",
-      "verse": "What shall we say, then? Shall we go on sinning so that grace may increase?"
-    },
-    {
-      "number": 80,
-      "location": "1 Peter 1:13",
-      "theme": "Grace",
-      "verse": "Therefore, with minds that are alert and fully sober, set your hope on the grace to be brought to you when Jesus Christ is revealed at his coming."
-    },
-    {
-      "number": 81,
-      "location": "Hebrews 10:29",
-      "theme": "Grace",
-      "verse": "How much more severely do you think someone deserves to be punished who has trampled the Son of God underfoot, who has treated as an unholy thing the blood of the covenant that sanctified them, and who has insulted the Spirit of grace?"
-    },
-    {
-      "number": 82,
-      "location": "2 Timothy 2:1",
-      "theme": "Grace",
-      "verse": "You then, my son, be strong in the grace that is in Christ Jesus."
-    },
-    {
-      "number": 83,
-      "location": "Ephesians 4:29",
-      "theme": "Grace",
-      "verse": "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."
-    },
-    {
-      "number": 84,
-      "location": "Colossians 4:6",
-      "theme": "Grace",
-      "verse": "Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone."
-    },
-    {
-      "number": 85,
-      "location": "Romans 4:16",
-      "theme": "Grace",
-      "verse": "Therefore, the promise comes by faith, so that it may be by grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law but also to those who have the faith of Abraham. He is the father of us all."
-    },
-    {
-      "number": 86,
-      "location": "2 Corinthians 9:14",
-      "theme": "Grace",
-      "verse": "And in their prayers for you their hearts will go out to you, because of the surpassing grace God has given you."
-    },
-    {
-      "number": 87,
-      "location": "Ephesians 1:6",
-      "theme": "Grace",
-      "verse": "to the praise of his glorious grace, which he has freely given us in the One he loves."
-    },
-    {
-      "number": 88,
-      "location": "Colossians 1:6",
-      "theme": "Grace",
-      "verse": "that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God’s grace."
-    },
-    {
-      "number": 89,
-      "location": "Hebrews 13:25",
-      "theme": "Grace",
-      "verse": "Grace be with you all."
-    },
-    {
-      "number": 90,
-      "location": "Acts 4:33",
-      "theme": "Grace",
-      "verse": "With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all"
-    },
-    {
-      "number": 91,
-      "location": "Romans 12:3",
-      "theme": "Grace",
-      "verse": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you."
-    },
-    {
-      "number": 92,
-      "location": "Colossians 2:6-7",
-      "theme": "Grace",
-      "verse": "So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness."
-    },
-    {
-      "number": 93,
-      "location": "1 Timothy 6:17",
-      "theme": "Grace",
-      "verse": "Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment."
-    },
-    {
-      "number": 94,
-      "location": "Titus 2:12",
-      "theme": "Grace",
-      "verse": "It teaches us to say “No” to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,"
-    },
-    {
-      "number": 95,
-      "location": "Romans 3:23-24",
-      "theme": "Grace",
-      "verse": "for all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus."
-    },
-    {
-      "number": 96,
-      "location": "James 2:13",
-      "theme": "Grace",
-      "verse": "because judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment."
-    },
-    {
-      "number": 97,
-      "location": "Acts 6:8",
-      "theme": "Grace",
-      "verse": "Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people."
-    },
-    {
-      "number": 98,
-      "location": "Romans 5:15",
-      "theme": "Grace",
-      "verse": "But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one man, Jesus Christ, overflow to the many!"
-    },
-    {
-      "number": 99,
-      "location": "Hebrews 12:28",
-      "theme": "Grace",
-      "verse": "Therefore, since we are receiving a kingdom that cannot be shaken, let us be thankful, and so worship God acceptably with reverence and awe,"
-    },
-    {
-      "number": 100,
-      "location": "2 Peter 1:2",
-      "theme": "Grace",
-      "verse": "Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord."
-    },
-    {
-      "number": 101,
-      "location": "Hebrews 11:1",
-      "theme": "Faith",
-      "verse": "Now faith is confidence in what we hope for and assurance about what we do not see."
-    },
-    {
-      "number": 102,
-      "location": "Romans 10:17",
-      "theme": "Faith",
-      "verse": "So faith comes from hearing, and hearing through the word of Christ."
-    },
-    {
-      "number": 103,
-      "location": "Galatians 2:20",
-      "theme": "Faith",
-      "verse": "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me."
-    },
-    {
-      "number": 104,
-      "location": "Mark 11:24",
-      "theme": "Faith",
-      "verse": "Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours."
-    },
-    {
-      "number": 105,
-      "location": "Ephesians 2:8",
-      "theme": "Faith",
-      "verse": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God."
-    },
-    {
-      "number": 106,
-      "location": "Hebrews 11:6",
-      "theme": "Faith",
-      "verse": "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him."
-    },
-    {
-      "number": 107,
-      "location": "James 1:6",
-      "theme": "Faith",
-      "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind."
-    },
-    {
-      "number": 108,
-      "location": "Romans 4:20-21",
-      "theme": "Faith",
-      "verse": "Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God, being fully persuaded that God had power to do what he had promised."
-    },
-    {
-      "number": 109,
-      "location": "Hebrews 11:11",
-      "theme": "Faith",
-      "verse": "And by faith even Sarah, who was past childbearing age, was enabled to bear children because she considered him faithful who had made the promise."
-    },
-    {
-      "number": 110,
-      "location": "Matthew 17:20",
-      "theme": "Faith",
-      "verse": "He replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”"
-    },
-    {
-      "number": 111,
-      "location": "Hebrews 11:30",
-      "theme": "Faith",
-      "verse": "By faith the walls of Jericho fell, after the army had marched around them for seven days."
-    },
-    {
-      "number": 112,
-      "location": "1 Corinthians 2:5",
-      "theme": "Faith",
-      "verse": "so that your faith might not rest on human wisdom, but on God’s power."
-    },
-    {
-      "number": 113,
-      "location": "James 2:17",
-      "theme": "Faith",
-      "verse": "In the same way, faith by itself, if it is not accompanied by action, is dead."
-    },
-    {
-      "number": 114,
-      "location": "Romans 1:17",
-      "theme": "Faith",
-      "verse": "For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: “The righteous will live by faith.”"
-    },
-    {
-      "number": 115,
-      "location": "Hebrews 11:24-26",
-      "theme": "Faith",
-      "verse": "By faith Moses, when he had grown up, refused to be known as the son of Pharaoh’s daughter. He chose to be mistreated along with the people of God rather than to enjoy the fleeting pleasures of sin. He regarded disgrace for the sake of Christ as of greater value than the treasures of Egypt, because he was looking ahead to his reward."
-    },
-    {
-      "number": 116,
-      "location": "1 Peter 1:8-9",
-      "theme": "Faith",
-      "verse": "Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy, for you are receiving the end result of your faith, the salvation of your souls."
-    },
-    {
-      "number": 117,
-      "location": "Mark 9:23",
-      "theme": "Faith",
-      "verse": "“‘If you can’?” said Jesus. “Everything is possible for one who believes.”"
-    },
-    {
-      "number": 118,
-      "location": "1 Corinthians 16:13",
-      "theme": "Faith",
-      "verse": "Be on your guard; stand firm in the faith; be courageous; be strong."
-    },
-    {
-      "number": 119,
-      "location": "Galatians 3:26",
-      "theme": "Faith",
-      "verse": "So in Christ Jesus you are all children of God through faith."
-    },
-    {
-      "number": 120,
-      "location": "Hebrews 12:2",
-      "theme": "Faith",
-      "verse": "fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the throne of God."
-    },
-    {
-      "number": 121,
-      "location": "2 Corinthians 5:7",
-      "theme": "Faith",
-      "verse": "For we live by faith, not by sight."
-    },
-    {
-      "number": 122,
-      "location": "Ephesians 3:17",
-      "theme": "Faith",
-      "verse": "so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love,"
-    },
-    {
-      "number": 123,
-      "location": "1 Timothy 6:12",
-      "theme": "Faith",
-      "verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession in the presence of many witnesses."
-    },
-    {
-      "number": 124,
-      "location": "2 Corinthians 4:18",
-      "theme": "Faith",
-      "verse": "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal."
-    },
-    {
-      "number": 125,
-      "location": "Hebrews 10:39",
-      "theme": "Faith",
-      "verse": "But we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved."
-    },
-    {
-      "number": 126,
-      "location": "1 Corinthians 13:13",
-      "theme": "Faith",
-      "verse": "And now these three remain: faith, hope and love. But the greatest of these is love."
-    },
-    {
-      "number": 127,
-      "location": "1 Thessalonians 5:8",
-      "theme": "Faith",
-      "verse": "But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet."
-    },
-    {
-      "number": 128,
-      "location": "Romans 3:22",
-      "theme": "Faith",
-      "verse": "This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile."
-    },
-    {
-      "number": 129,
-      "location": "Hebrews 11:13",
-      "theme": "Faith",
-      "verse": "All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance, admitting that they were foreigners and strangers on earth."
-    },
-    {
-      "number": 130,
-      "location": "Philippians 4:13",
-      "theme": "Faith",
-      "verse": "I can do all this through him who gives me strength."
-    },
-    {
-      "number": 131,
-      "location": "1 Peter 5:9",
-      "theme": "Faith",
-      "verse": "Resist him, standing firm in the faith, because you know that the family of believers throughout the world is undergoing the same kind of sufferings."
-    },
-    {
-      "number": 132,
-      "location": "2 Corinthians 5:7",
-      "theme": "Faith",
-      "verse": "For we live by faith, not by sight."
-    },
-    {
-      "number": 133,
-      "location": "Hebrews 11:32-34",
-      "theme": "Faith",
-      "verse": "And what more shall I say? I do not have time to tell about Gideon, Barak, Samson and Jephthah, about David and Samuel and the prophets, who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions, quenched the fury of the flames, and escaped the edge of the sword; whose weakness was turned to strength; and who became powerful in battle and routed foreign armies."
-    },
-    {
-      "number": 134,
-      "location": "Romans 14:1",
-      "theme": "Faith",
-      "verse": "Accept the one whose faith is weak, without quarreling over disputable matters."
-    },
-    {
-      "number": 135,
-      "location": "2 Thessalonians 1:3",
-      "theme": "Faith",
-      "verse": "We ought always to thank God for you, brothers and sisters, and rightly so, because your faith is growing more and more, and the love all of you have for one another is increasing."
-    },
-    {
-      "number": 136,
-      "location": "Hebrews 11:7",
-      "theme": "Faith",
-      "verse": "By faith Noah, when warned about things not yet seen, in holy fear built an ark to save his family. By his faith he condemned the world and became heir of the righteousness that is in keeping with faith."
-    },
-    {
-      "number": 137,
-      "location": "Galatians 5:22-23",
-      "theme": "Faith",
-      "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."
-    },
-    {
-      "number": 138,
-      "location": "1 Peter 1:21",
-      "theme": "Faith",
-      "verse": "Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God."
-    },
-    {
-      "number": 139,
-      "location": "1 Corinthians 15:17",
-      "theme": "Faith",
-      "verse": "And if Christ has not been raised, your faith is futile; you are still in your sins."
-    },
-    {
-      "number": 140,
-      "location": "Hebrews 11:13",
-      "theme": "Faith",
-      "verse": "All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance, admitting that they were foreigners and strangers on earth."
-    },
-    {
-      "number": 141,
-      "location": "1 Timothy 4:12",
-      "theme": "Faith",
-      "verse": "Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity."
-    },
-    {
-      "number": 142,
-      "location": "Romans 12:3",
-      "theme": "Faith",
-      "verse": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you."
-    },
-    {
-      "number": 143,
-      "location": "Hebrews 6:12",
-      "theme": "Faith",
-      "verse": "We do not want you to become lazy, but to imitate those who through faith and patience inherit what has been promised."
-    },
-    {
-      "number": 144,
-      "location": "1 Corinthians 16:13",
-      "theme": "Faith",
-      "verse": "Be on your guard; stand firm in the faith; be courageous; be strong."
-    },
-    {
-      "number": 145,
-      "location": "Romans 15:13",
-      "theme": "Faith",
-      "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
-    },
-    {
-      "number": 146,
-      "location": "Jude 1:20",
-      "theme": "Faith",
-      "verse": "But you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit,"
-    },
-    {
-      "number": 147,
-      "location": "1 Corinthians 13:2",
-      "theme": "Faith",
-      "verse": "If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing."
-    },
-    {
-      "number": 148,
-      "location": "Hebrews 11:1-2",
-      "theme": "Faith",
-      "verse": "Now faith is confidence in what we hope for and assurance about what we do not see. This is what the ancients were commended for."
-    },
-    {
-      "number": 149,
-      "location": "1 Timothy 6:11",
-      "theme": "Faith",
-      "verse": "But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness."
-    },
-    {
-      "number": 150,
-      "location": "Hebrews 11:24-26",
-      "theme": "Faith",
-      "verse": "By faith Moses, when he had grown up, refused to be known as the son of Pharaoh’s daughter. He chose to be mistreated along with the people of God rather than to enjoy the fleeting pleasures of sin. He regarded disgrace for the sake of Christ as of greater value than the treasures of Egypt, because he was looking ahead to his reward."
-    },
-    {
-      "number": 151,
-      "location": "Romans 15:13",
-      "theme": "Hope",
-      "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
-    },
-    {
-      "number": 152,
-      "location": "Hebrews 11:1",
-      "theme": "Hope",
-      "verse": "Now faith is confidence in what we hope for and assurance about what we do not see."
-    },
-    {
-      "number": 153,
-      "location": "Psalm 71:5",
-      "theme": "Hope",
-      "verse": "For you, Lord, are my hope, my trust, Lord, from my youth."
-    },
-    {
-      "number": 154,
-      "location": "Jeremiah 29:11",
-      "theme": "Hope",
-      "verse": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future."
-    },
-    {
-      "number": 155,
-      "location": "Romans 5:5",
-      "theme": "Hope",
-      "verse": "And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
-    },
-    {
-      "number": 156,
-      "location": "Psalm 147:11",
-      "theme": "Hope",
-      "verse": "the Lord delights in those who fear him, who put their hope in his unfailing love."
-    },
-    {
-      "number": 157,
-      "location": "Lamentations 3:24",
-      "theme": "Hope",
-      "verse": "“The Lord is my portion,” says my soul, “therefore I will hope in him.”"
-    },
-    {
-      "number": 158,
-      "location": "Titus 1:2",
-      "theme": "Hope",
-      "verse": "In the hope of eternal life, which God, who does not lie, promised before the beginning of time."
-    },
-    {
-      "number": 159,
-      "location": "Psalm 130:5",
-      "theme": "Hope",
-      "verse": "I wait for the Lord, my whole being waits, and in his word I put my hope."
-    },
-    {
-      "number": 160,
-      "location": "Romans 12:12",
-      "theme": "Hope",
-      "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
-    },
-    {
-      "number": 161,
-      "location": "Psalm 31:24",
-      "theme": "Hope",
-      "verse": "Be strong and take heart, all you who hope in the Lord."
-    },
-    {
-      "number": 162,
-      "location": "1 Corinthians 13:13",
-      "theme": "Hope",
-      "verse": "And now these three remain: faith, hope and love. But the greatest of these is love."
-    },
-    {
-      "number": 163,
-      "location": "Hebrews 6:19",
-      "theme": "Hope",
-      "verse": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain."
-    },
-    {
-      "number": 164,
-      "location": "Proverbs 24:14",
-      "theme": "Hope",
-      "verse": "Know also that wisdom is like honey for you: If you find it, there is a future hope for you, and your hope will not be cut off."
-    },
-    {
-      "number": 165,
-      "location": "1 Peter 1:3",
-      "theme": "Hope",
-      "verse": "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead."
-    },
-    {
-      "number": 166,
-      "location": "Psalm 33:18",
-      "theme": "Hope",
-      "verse": "But the eyes of the Lord are on those who fear him, on those whose hope is in his unfailing love."
-    },
-    {
-      "number": 167,
-      "location": "Psalm 42:5",
-      "theme": "Hope",
-      "verse": "Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God."
-    },
-    {
-      "number": 168,
-      "location": "Romans 8:24-25",
-      "theme": "Hope",
-      "verse": "For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have? But if we hope for what we do not yet have, we wait for it patiently."
-    },
-    {
-      "number": 169,
-      "location": "Psalm 33:22",
-      "theme": "Hope",
-      "verse": "May your unfailing love be with us, Lord, even as we put our hope in you."
-    },
-    {
-      "number": 170,
-      "location": "Psalm 119:114",
-      "theme": "Hope",
-      "verse": "You are my refuge and my shield; I have put my hope in your word."
-    },
-    {
-      "number": 171,
-      "location": "Isaiah 40:31",
-      "theme": "Hope",
-      "verse": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
-    },
-    {
-      "number": 172,
-      "location": "Romans 15:4",
-      "theme": "Hope",
-      "verse": "For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope."
-    },
-    {
-      "number": 173,
-      "location": "Psalm 146:5",
-      "theme": "Hope",
-      "verse": "Blessed are those whose help is the God of Jacob, whose hope is in the Lord their God."
-    },
-    {
-      "number": 174,
-      "location": "Colossians 1:27",
-      "theme": "Hope",
-      "verse": "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory."
-    },
-    {
-      "number": 175,
-      "location": "Psalm 33:20",
-      "theme": "Hope",
-      "verse": "We wait in hope for the Lord; he is our help and our shield."
-    },
-    {
-      "number": 176,
-      "location": "Job 11:18",
-      "theme": "Hope",
-      "verse": "You will be secure, because there is hope; you will look about you and take your rest in safety."
-    },
-    {
-      "number": 177,
-      "location": "Psalm 130:7",
-      "theme": "Hope",
-      "verse": "Israel, put your hope in the Lord, for with the Lord is unfailing love and with him is full redemption."
-    },
-    {
-      "number": 178,
-      "location": "Romans 5:2-5",
-      "theme": "Hope",
-      "verse": "Through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
-    },
-    {
-      "number": 179,
-      "location": "Psalm 71:14",
-      "theme": "Hope",
-      "verse": "As for me, I will always have hope; I will praise you more and more."
-    },
-    {
-      "number": 180,
-      "location": "Psalm 119:74",
-      "theme": "Hope",
-      "verse": "May those who fear you rejoice when they see me, for I have put my hope in your word."
-    },
-    {
-      "number": 181,
-      "location": "Romans 12:12",
-      "theme": "Hope",
-      "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
-    },
-    {
-      "number": 182,
-      "location": "Psalm 33:21",
-      "theme": "Hope",
-      "verse": "In him our hearts rejoice, for we trust in his holy name."
-    },
-    {
-      "number": 183,
-      "location": "Psalm 119:81",
-      "theme": "Hope",
-      "verse": "My soul faints with longing for your salvation, but I have put my hope in your word."
-    },
-    {
-      "number": 184,
-      "location": "Romans 15:13",
-      "theme": "Hope",
-      "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
-    },
-    {
-      "number": 185,
-      "location": "Hebrews 10:23",
-      "theme": "Hope",
-      "verse": "Let us hold unswervingly to the hope we profess, for he who promised is faithful."
-    },
-    {
-      "number": 186,
-      "location": "Psalm 146:5",
-      "theme": "Hope",
-      "verse": "Blessed are those whose help is the God of Jacob, whose hope is in the Lord their God."
-    },
-    {
-      "number": 187,
-      "location": "Romans 5:2-5",
-      "theme": "Hope",
-      "verse": "Through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
-    },
-    {
-      "number": 188,
-      "location": "Psalm 71:14",
-      "theme": "Hope",
-      "verse": "As for me, I will always have hope; I will praise you more and more."
-    },
-    {
-      "number": 189,
-      "location": "Psalm 119:74",
-      "theme": "Hope",
-      "verse": "May those who fear you rejoice when they see me, for I have put my hope in your word."
-    },
-    {
-      "number": 190,
-      "location": "Romans 12:12",
-      "theme": "Hope",
-      "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
-    },
-    {
-      "number": 191,
-      "location": "Psalm 33:21",
-      "theme": "Hope",
-      "verse": "In him our hearts rejoice, for we trust in his holy name."
-    },
-    {
-      "number": 192,
-      "location": "Psalm 119:81",
-      "theme": "Hope",
-      "verse": "My soul faints with longing for your salvation, but I have put my hope in your word."
-    },
-    {
-      "number": 193,
-      "location": "Romans 15:13",
-      "theme": "Hope",
-      "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
-    },
-    {
-      "number": 194,
-      "location": "Hebrews 10:23",
-      "theme": "Hope",
-      "verse": "Let us hold unswervingly to the hope we profess, for he who promised is faithful."
-    },
-    {
-      "number": 195,
-      "location": "Psalm 146:5",
-      "theme": "Hope",
-      "verse": "Blessed are those whose help is the God of Jacob, whose hope is in the Lord their God."
-    },
-    {
-      "number": 196,
-      "location": "Romans 5:2-5",
-      "theme": "Hope",
-      "verse": "Through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
-    },
-    {
-      "number": 197,
-      "location": "Psalm 71:14",
-      "theme": "Hope",
-      "verse": "As for me, I will always have hope; I will praise you more and more."
-    },
-    {
-      "number": 198,
-      "location": "Psalm 119:74",
-      "theme": "Hope",
-      "verse": "May those who fear you rejoice when they see me, for I have put my hope in your word."
-    },
-    {
-      "number": 199,
-      "location": "Romans 12:12",
-      "theme": "Hope",
-      "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
-    },
-    {
-      "number": 200,
-      "location": "Psalm 33:21",
-      "theme": "Hope",
-      "verse": "In him our hearts rejoice, for we trust in his holy name."
-    },
-    {
-      "number": 201,
-      "location": "Isaiah 41:10",
-      "theme": "Overcoming Challenges",
-      "verse": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
-    },
-    {
-      "number": 202,
-      "location": "Romans 8:37",
-      "theme": "Overcoming Challenges",
-      "verse": "No, in all these things we are more than conquerors through him who loved us."
-    },
-    {
-      "number": 203,
-      "location": "Philippians 4:13",
-      "theme": "Overcoming Challenges",
-      "verse": "I can do all this through him who gives me strength."
-    },
-    {
-      "number": 204,
-      "location": "1 Corinthians 10:13",
-      "theme": "Overcoming Challenges",
-      "verse": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it."
-    },
-    {
-      "number": 205,
-      "location": "Joshua 1:9",
-      "theme": "Overcoming Challenges",
-      "verse": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
-    },
-    {
-      "number": 206,
-      "location": "John 16:33",
-      "theme": "Overcoming Challenges",
-      "verse": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world."
-    },
-    {
-      "number": 207,
-      "location": "2 Corinthians 12:9",
-      "theme": "Overcoming Challenges",
-      "verse": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me."
-    },
-    {
-      "number": 208,
-      "location": "Psalm 34:17",
-      "theme": "Overcoming Challenges",
-      "verse": "The righteous cry out, and the Lord hears them; he delivers them from all their troubles."
-    },
-    {
-      "number": 209,
-      "location": "Romans 12:12",
-      "theme": "Overcoming Challenges",
-      "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
-    },
-    {
-      "number": 210,
-      "location": "Psalm 23:4",
-      "theme": "Overcoming Challenges",
-      "verse": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
-    },
-    {
-      "number": 211,
-      "location": "James 1:12",
-      "theme": "Overcoming Challenges",
-      "verse": "Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him."
-    },
-    {
-      "number": 212,
-      "location": "Psalm 138:7",
-      "theme": "Overcoming Challenges",
-      "verse": "Though I walk in the midst of trouble, you preserve my life. You stretch out your hand against the anger of my foes; with your right hand you save me."
-    },
-    {
-      "number": 213,
-      "location": "2 Timothy 1:7",
-      "theme": "Overcoming Challenges",
-      "verse": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."
-    },
-    {
-      "number": 214,
-      "location": "Psalm 55:22",
-      "theme": "Overcoming Challenges",
-      "verse": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
-    },
-    {
-      "number": 215,
-      "location": "1 Peter 5:7",
-      "theme": "Overcoming Challenges",
-      "verse": "Cast all your anxiety on him because he cares for you."
-    },
-    {
-      "number": 216,
-      "location": "Isaiah 40:29",
-      "theme": "Overcoming Challenges",
-      "verse": "He gives strength to the weary and increases the power of the weak."
-    },
-    {
-      "number": 217,
-      "location": "Isaiah 43:2",
-      "theme": "Overcoming Challenges",
-      "verse": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze."
-    },
-    {
-      "number": 218,
-      "location": "Romans 5:3-5",
-      "theme": "Overcoming Challenges",
-      "verse": "Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
-    },
-    {
-      "number": 219,
-      "location": "Romans 8:28",
-      "theme": "Overcoming Challenges",
-      "verse": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
-    },
-    {
-      "number": 220,
-      "location": "Psalm 37:5",
-      "theme": "Overcoming Challenges",
-      "verse": "Commit your way to the Lord; trust in him and he will do this:"
-    },
-    {
-      "number": 221,
-      "location": "Romans 15:13",
-      "theme": "Overcoming Challenges",
-      "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
-    },
-    {
-      "number": 222,
-      "location": "Psalm 34:4",
-      "theme": "Overcoming Challenges",
-      "verse": "I sought the Lord, and he answered me; he delivered me from all my fears."
-    },
-    {
-      "number": 223,
-      "location": "Philippians 4:6-7",
-      "theme": "Overcoming Challenges",
-      "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
-    },
-    {
-      "number": 224,
-      "location": "1 John 5:4",
-      "theme": "Overcoming Challenges",
-      "verse": "For everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith."
-    },
-    {
-      "number": 225,
-      "location": "Deuteronomy 31:6",
-      "theme": "Overcoming Challenges",
-      "verse": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you."
-    },
-    {
-      "number": 226,
-      "location": "Psalm 18:2",
-      "theme": "Overcoming Challenges",
-      "verse": "The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold."
-    },
-    {
-      "number": 227,
-      "location": "Romans 12:21",
-      "theme": "Overcoming Challenges",
-      "verse": "Do not be overcome by evil, but overcome evil with good."
-    },
-    {
-      "number": 228,
-      "location": "John 14:27",
-      "theme": "Overcoming Challenges",
-      "verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
-    },
-    {
-      "number": 229,
-      "location": "Proverbs 3:5-6",
-      "theme": "Overcoming Challenges",
-      "verse": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
-    },
-    {
-      "number": 230,
-      "location": "2 Corinthians 4:8-9",
-      "theme": "Overcoming Challenges",
-      "verse": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed."
-    },
-    {
-      "number": 231,
-      "location": "Psalm 9:9",
-      "theme": "Overcoming Challenges",
-      "verse": "The Lord is a refuge for the oppressed, a stronghold in times of trouble."
-    },
-    {
-      "number": 232,
-      "location": "Isaiah 41:13",
-      "theme": "Overcoming Challenges",
-      "verse": "For I am the Lord your God who takes hold of your right hand and says to you, Do not fear; I will help you."
-    },
-    {
-      "number": 233,
-      "location": "Psalm 55:22",
-      "theme": "Overcoming Challenges",
-      "verse": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
-    },
-    {
-      "number": 234,
-      "location": "1 Peter 5:7",
-      "theme": "Overcoming Challenges",
-      "verse": "Cast all your anxiety on him because he cares for you."
-    },
-    {
-      "number": 235,
-      "location": "Isaiah 40:29",
-      "theme": "Overcoming Challenges",
-      "verse": "He gives strength to the weary and increases the power of the weak."
-    },
-    {
-      "number": 236,
-      "location": "Isaiah 43:2",
-      "theme": "Overcoming Challenges",
-      "verse": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze."
-    },
-    {
-      "number": 237,
-      "location": "Romans 5:3-5",
-      "theme": "Overcoming Challenges",
-      "verse": "Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
-    },
-    {
-      "number": 238,
-      "location": "Romans 8:28",
-      "theme": "Overcoming Challenges",
-      "verse": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
-    },
-    {
-      "number": 239,
-      "location": "Psalm 37:5",
-      "theme": "Overcoming Challenges",
-      "verse": "Commit your way to the Lord; trust in him and he will do this:"
-    },
-    {
-      "number": 240,
-      "location": "Romans 15:13",
-      "theme": "Overcoming Challenges",
-      "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
-    },
-    {
-      "number": 241,
-      "location": "Psalm 34:4",
-      "theme": "Overcoming Challenges",
-      "verse": "I sought the Lord, and he answered me; he delivered me from all my fears."
-    },
-    {
-      "number": 242,
-      "location": "Philippians 4:6-7",
-      "theme": "Overcoming Challenges",
-      "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
-    },
-    {
-      "number": 243,
-      "location": "1 John 5:4",
-      "theme": "Overcoming Challenges",
-      "verse": "For everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith."
-    },
-    {
-      "number": 244,
-      "location": "Deuteronomy 31:6",
-      "theme": "Overcoming Challenges",
-      "verse": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you."
-    },
-    {
-      "number": 245,
-      "location": "Psalm 18:2",
-      "theme": "Overcoming Challenges",
-      "verse": "The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold."
-    },
-    {
-      "number": 246,
-      "location": "Romans 12:21",
-      "theme": "Overcoming Challenges",
-      "verse": "Do not be overcome by evil, but overcome evil with good."
-    },
-    {
-      "number": 247,
-      "location": "John 14:27",
-      "theme": "Overcoming Challenges",
-      "verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
-    },
-    {
-      "number": 248,
-      "location": "Proverbs 3:5-6",
-      "theme": "Overcoming Challenges",
-      "verse": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
-    },
-    {
-      "number": 249,
-      "location": "2 Corinthians 4:8-9",
-      "theme": "Overcoming Challenges",
-      "verse": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed."
-    },
-    {
-      "number": 250,
-      "location": "Psalm 9:9",
-      "theme": "Overcoming Challenges",
-      "verse": "The Lord is a refuge for the oppressed, a stronghold in times of trouble."
-    }
-  ]
-
+ [
+      {
+        "number": 1,
+        "location": "John 3:16",
+        "theme": "Love",
+        "verse": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+      },
+      {
+        "number": 2,
+        "location": "Romans 5:8",
+        "theme": "Love",
+        "verse": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."
+      },
+      {
+        "number": 3,
+        "location": "1 Corinthians 13:4-8a",
+        "theme": "Love",
+        "verse": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
+      },
+      {
+        "number": 4,
+        "location": "1 John 4:7-8",
+        "theme": "Love",
+        "verse": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love."
+      },
+      {
+        "number": 5,
+        "location": "Ephesians 5:25",
+        "theme": "Love",
+        "verse": "Husbands, love your wives, just as Christ loved the church and gave himself up for her."
+      },
+      {
+        "number": 6,
+        "location": "Galatians 5:22-23",
+        "theme": "Love",
+        "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."
+      },
+      {
+        "number": 7,
+        "location": "Colossians 3:14",
+        "theme": "Love",
+        "verse": "And over all these virtues put on love, which binds them all together in perfect unity."
+      },
+      {
+        "number": 8,
+        "location": "1 John 4:19",
+        "theme": "Love",
+        "verse": "We love because he first loved us."
+      },
+      {
+        "number": 9,
+        "location": "Matthew 22:37-39",
+        "theme": "Love",
+        "verse": "Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’"
+      },
+      {
+        "number": 10,
+        "location": "Romans 13:10",
+        "theme": "Love",
+        "verse": "Love does no harm to a neighbor. Therefore, love is the fulfillment of the law."
+      },
+      {
+        "number": 11,
+        "location": "1 Corinthians 16:14",
+        "theme": "Love",
+        "verse": "Do everything in love."
+      },
+      {
+        "number": 12,
+        "location": "Song of Solomon 8:7",
+        "theme": "Love",
+        "verse": "Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of one’s house for love, it would be utterly scorned."
+      },
+      {
+        "number": 13,
+        "location": "Proverbs 10:12",
+        "theme": "Love",
+        "verse": "Hatred stirs up conflict, but love covers over all wrongs."
+      },
+      {
+        "number": 14,
+        "location": "1 John 4:18",
+        "theme": "Love",
+        "verse": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."
+      },
+      {
+        "number": 15,
+        "location": "1 Peter 4:8",
+        "theme": "Love",
+        "verse": "Above all, love each other deeply, because love covers over a multitude of sins."
+      },
+      {
+        "number": 16,
+        "location": "Romans 12:9",
+        "theme": "Love",
+        "verse": "Love must be sincere. Hate what is evil; cling to what is good."
+      },
+      {
+        "number": 17,
+        "location": "1 Corinthians 13:13",
+        "theme": "Love",
+        "verse": "And now these three remain: faith, hope and love. But the greatest of these is love."
+      },
+      {
+        "number": 18,
+        "location": "1 Thessalonians 3:12",
+        "theme": "Love",
+        "verse": "May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you."
+      },
+      {
+        "number": 19,
+        "location": "1 John 4:11",
+        "theme": "Love",
+        "verse": "Dear friends, since God so loved us, we also ought to love one another."
+      },
+      {
+        "number": 20,
+        "location": "1 John 3:18",
+        "theme": "Love",
+        "verse": "Dear children, let us not love with words or speech but with actions and in truth."
+      },
+      {
+        "number": 21,
+        "location": "John 15:13",
+        "theme": "Love",
+        "verse": "Greater love has no one than this: to lay down one’s life for one’s friends."
+      },
+      {
+        "number": 22,
+        "location": "1 John 3:1",
+        "theme": "Love",
+        "verse": "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him."
+      },
+      {
+        "number": 23,
+        "location": "Ephesians 3:17-19",
+        "theme": "Love",
+        "verse": "And I pray that you, being rooted and established in love, may have power, together with all the Lord’s holy people, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God."
+      },
+      {
+        "number": 24,
+        "location": "1 John 4:16",
+        "theme": "Love",
+        "verse": "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them."
+      },
+      {
+        "number": 25,
+        "location": "1 John 4:21",
+        "theme": "Love",
+        "verse": "And he has given us this command: Anyone who loves God must also love their brother and sister."
+      },
+      {
+        "number": 26,
+        "location": "John 13:34-35",
+        "theme": "Love",
+        "verse": "A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another."
+      },
+      {
+        "number": 27,
+        "location": "Luke 6:27",
+        "theme": "Love",
+        "verse": "But to you who are listening I say: Love your enemies, do good to those who hate you."
+      },
+      {
+        "number": 28,
+        "location": "Romans 8:38-39",
+        "theme": "Love",
+        "verse": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
+      },
+      {
+        "number": 29,
+        "location": "1 John 4:10",
+        "theme": "Love",
+        "verse": "This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins."
+      },
+      {
+        "number": 30,
+        "location": "Deuteronomy 6:5",
+        "theme": "Love",
+        "verse": "Love the Lord your God with all your heart and with all your soul and with all your strength."
+      },
+      {
+        "number": 31,
+        "location": "1 John 4:12",
+        "theme": "Love",
+        "verse": "No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us."
+      },
+      {
+        "number": 32,
+        "location": "Ephesians 4:2",
+        "theme": "Love",
+        "verse": "Be completely humble and gentle; be patient, bearing with one another in love."
+      },
+      {
+        "number": 33,
+        "location": "1 Corinthians 8:3",
+        "theme": "Love",
+        "verse": "But whoever loves God is known by God."
+      },
+      {
+        "number": 34,
+        "location": "Romans 12:10",
+        "theme": "Love",
+        "verse": "Be devoted to one another in love. Honor one another above yourselves."
+      },
+      {
+        "number": 35,
+        "location": "1 John 4:8",
+        "theme": "Love",
+        "verse": "Whoever does not love does not know God, because God is love."
+      },
+      {
+        "number": 36,
+        "location": "Matthew 5:44",
+        "theme": "Love",
+        "verse": "But I tell you, love your enemies and pray for those who persecute you."
+      },
+      {
+        "number": 37,
+        "location": "1 Corinthians 14:1",
+        "theme": "Love",
+        "verse": "Follow the way of love and eagerly desire gifts of the Spirit, especially prophecy."
+      },
+      {
+        "number": 38,
+        "location": "1 John 4:9",
+        "theme": "Love",
+        "verse": "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him."
+      },
+      {
+        "number": 39,
+        "location": "Romans 13:8",
+        "theme": "Love",
+        "verse": "Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law."
+      },
+      {
+        "number": 40,
+        "location": "Romans 5:5",
+        "theme": "Love",
+        "verse": "And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+      },
+      {
+        "number": 41,
+        "location": "Jude 1:21",
+        "theme": "Love",
+        "verse": "Keep yourselves in God’s love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life."
+      },
+      {
+        "number": 42,
+        "location": "1 John 4:20",
+        "theme": "Love",
+        "verse": "Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen."
+      },
+      {
+        "number": 43,
+        "location": "Proverbs 17:17",
+        "theme": "Love",
+        "verse": "A friend loves at all times, and a brother is born for a time of adversity."
+      },
+      {
+        "number": 44,
+        "location": "Ephesians 2:4-5",
+        "theme": "Love",
+        "verse": "But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."
+      },
+      {
+        "number": 45,
+        "location": "1 Peter 1:22",
+        "theme": "Love",
+        "verse": "Now that you have purified yourselves by obeying the truth so that you have sincere love for each other, love one another deeply, from the heart."
+      },
+      {
+        "number": 46,
+        "location": "1 John 4:17",
+        "theme": "Love",
+        "verse": "This is how love is made complete among us so that we will have confidence on the day of judgment: In this world we are like Jesus."
+      },
+      {
+        "number": 47,
+        "location": "1 Corinthians 16:14",
+        "theme": "Love",
+        "verse": "Do everything in love."
+      },
+      {
+        "number": 48,
+        "location": "John 14:15",
+        "theme": "Love",
+        "verse": "“If you love me, keep my commands."
+      },
+      {
+        "number": 49,
+        "location": "1 Peter 4:10",
+        "theme": "Love",
+        "verse": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."
+      },
+      {
+        "number": 50,
+        "location": "Romans 8:28",
+        "theme": "Love",
+        "verse": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+      },
+      {
+        "number": 51,
+        "location": "Ephesians 2:8-9",
+        "theme": "Grace",
+        "verse": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."
+      },
+      {
+        "number": 52,
+        "location": "Romans 6:14",
+        "theme": "Grace",
+        "verse": "For sin shall no longer be your master, because you are not under the law, but under grace."
+      },
+      {
+        "number": 53,
+        "location": "2 Corinthians 12:9",
+        "theme": "Grace",
+        "verse": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me."
+      },
+      {
+        "number": 54,
+        "location": "Titus 2:11",
+        "theme": "Grace",
+        "verse": "For the grace of God has appeared that offers salvation to all people."
+      },
+      {
+        "number": 55,
+        "location": "Romans 5:20",
+        "theme": "Grace",
+        "verse": "But where sin increased, grace increased all the more."
+      },
+      {
+        "number": 56,
+        "location": "Hebrews 4:16",
+        "theme": "Grace",
+        "verse": "Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+      },
+      {
+        "number": 57,
+        "location": "James 4:6",
+        "theme": "Grace",
+        "verse": "But he gives us more grace. That is why Scripture says: “God opposes the proud but shows favor to the humble.”"
+      },
+      {
+        "number": 58,
+        "location": "Romans 11:6",
+        "theme": "Grace",
+        "verse": "And if by grace, then it cannot be based on works; if it were, grace would no longer be grace."
+      },
+      {
+        "number": 59,
+        "location": "Ephesians 1:7-8",
+        "theme": "Grace",
+        "verse": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace that he lavished on us. With all wisdom and understanding,"
+      },
+      {
+        "number": 60,
+        "location": "1 Peter 5:10",
+        "theme": "Grace",
+        "verse": "And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast."
+      },
+      {
+        "number": 61,
+        "location": "Romans 3:24",
+        "theme": "Grace",
+        "verse": "and all are justified freely by his grace through the redemption that came by Christ Jesus."
+      },
+      {
+        "number": 62,
+        "location": "Ephesians 4:7",
+        "theme": "Grace",
+        "verse": "But to each one of us grace has been given as Christ apportioned it."
+      },
+      {
+        "number": 63,
+        "location": "John 1:16",
+        "theme": "Grace",
+        "verse": "Out of his fullness we have all received grace in place of grace already given."
+      },
+      {
+        "number": 64,
+        "location": "2 Timothy 1:9",
+        "theme": "Grace",
+        "verse": "He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time."
+      },
+      {
+        "number": 65,
+        "location": "Acts 15:11",
+        "theme": "Grace",
+        "verse": "No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are."
+      },
+      {
+        "number": 66,
+        "location": "2 Corinthians 9:8",
+        "theme": "Grace",
+        "verse": "And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work."
+      },
+      {
+        "number": 67,
+        "location": "Colossians 3:16",
+        "theme": "Grace",
+        "verse": "Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts."
+      },
+      {
+        "number": 68,
+        "location": "Acts 20:32",
+        "theme": "Grace",
+        "verse": "“Now I commit you to God and to the word of his grace, which can build you up and give you an inheritance among all those who are sanctified."
+      },
+      {
+        "number": 69,
+        "location": "Romans 6:15",
+        "theme": "Grace",
+        "verse": "What then? Shall we sin because we are not under the law but under grace? By no means!"
+      },
+      {
+        "number": 70,
+        "location": "Hebrews 12:15",
+        "theme": "Grace",
+        "verse": "See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many."
+      },
+      {
+        "number": 71,
+        "location": "1 Corinthians 1:4",
+        "theme": "Grace",
+        "verse": "I always thank my God for you because of his grace given you in Christ Jesus."
+      },
+      {
+        "number": 72,
+        "location": "Titus 3:7",
+        "theme": "Grace",
+        "verse": "So that, having been justified by his grace, we might become heirs having the hope of eternal life."
+      },
+      {
+        "number": 73,
+        "location": "Acts 11:23",
+        "theme": "Grace",
+        "verse": "When he arrived and saw what the grace of God had done, he was glad and encouraged them all to remain true to the Lord with all their hearts."
+      },
+      {
+        "number": 74,
+        "location": "Romans 5:2",
+        "theme": "Grace",
+        "verse": "through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God."
+      },
+      {
+        "number": 75,
+        "location": "2 Corinthians 8:9",
+        "theme": "Grace",
+        "verse": "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you through his poverty might become rich."
+      },
+      {
+        "number": 76,
+        "location": "Ephesians 2:5",
+        "theme": "Grace",
+        "verse": "made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."
+      },
+      {
+        "number": 77,
+        "location": "Hebrews 13:9",
+        "theme": "Grace",
+        "verse": "Do not be carried away by all kinds of strange teachings. It is good for our hearts to be strengthened by grace, not by eating ceremonial foods, which is of no benefit to those who do so."
+      },
+      {
+        "number": 78,
+        "location": "James 1:17",
+        "theme": "Grace",
+        "verse": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows."
+      },
+      {
+        "number": 79,
+        "location": "Romans 6:1",
+        "theme": "Grace",
+        "verse": "What shall we say, then? Shall we go on sinning so that grace may increase?"
+      },
+      {
+        "number": 80,
+        "location": "1 Peter 1:13",
+        "theme": "Grace",
+        "verse": "Therefore, with minds that are alert and fully sober, set your hope on the grace to be brought to you when Jesus Christ is revealed at his coming."
+      },
+      {
+        "number": 81,
+        "location": "Hebrews 10:29",
+        "theme": "Grace",
+        "verse": "How much more severely do you think someone deserves to be punished who has trampled the Son of God underfoot, who has treated as an unholy thing the blood of the covenant that sanctified them, and who has insulted the Spirit of grace?"
+      },
+      {
+        "number": 82,
+        "location": "2 Timothy 2:1",
+        "theme": "Grace",
+        "verse": "You then, my son, be strong in the grace that is in Christ Jesus."
+      },
+      {
+        "number": 83,
+        "location": "Ephesians 4:29",
+        "theme": "Grace",
+        "verse": "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."
+      },
+      {
+        "number": 84,
+        "location": "Colossians 4:6",
+        "theme": "Grace",
+        "verse": "Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone."
+      },
+      {
+        "number": 85,
+        "location": "Romans 4:16",
+        "theme": "Grace",
+        "verse": "Therefore, the promise comes by faith, so that it may be by grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law but also to those who have the faith of Abraham. He is the father of us all."
+      },
+      {
+        "number": 86,
+        "location": "2 Corinthians 9:14",
+        "theme": "Grace",
+        "verse": "And in their prayers for you their hearts will go out to you, because of the surpassing grace God has given you."
+      },
+      {
+        "number": 87,
+        "location": "Ephesians 1:6",
+        "theme": "Grace",
+        "verse": "to the praise of his glorious grace, which he has freely given us in the One he loves."
+      },
+      {
+        "number": 88,
+        "location": "Colossians 1:6",
+        "theme": "Grace",
+        "verse": "that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God’s grace."
+      },
+      {
+        "number": 89,
+        "location": "Hebrews 13:25",
+        "theme": "Grace",
+        "verse": "Grace be with you all."
+      },
+      {
+        "number": 90,
+        "location": "Acts 4:33",
+        "theme": "Grace",
+        "verse": "With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all"
+      },
+      {
+        "number": 91,
+        "location": "Romans 12:3",
+        "theme": "Grace",
+        "verse": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you."
+      },
+      {
+        "number": 92,
+        "location": "Colossians 2:6-7",
+        "theme": "Grace",
+        "verse": "So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness."
+      },
+      {
+        "number": 93,
+        "location": "1 Timothy 6:17",
+        "theme": "Grace",
+        "verse": "Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment."
+      },
+      {
+        "number": 94,
+        "location": "Titus 2:12",
+        "theme": "Grace",
+        "verse": "It teaches us to say “No” to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,"
+      },
+      {
+        "number": 95,
+        "location": "Romans 3:23-24",
+        "theme": "Grace",
+        "verse": "for all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus."
+      },
+      {
+        "number": 96,
+        "location": "James 2:13",
+        "theme": "Grace",
+        "verse": "because judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment."
+      },
+      {
+        "number": 97,
+        "location": "Acts 6:8",
+        "theme": "Grace",
+        "verse": "Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people."
+      },
+      {
+        "number": 98,
+        "location": "Romans 5:15",
+        "theme": "Grace",
+        "verse": "But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one man, Jesus Christ, overflow to the many!"
+      },
+      {
+        "number": 99,
+        "location": "Hebrews 12:28",
+        "theme": "Grace",
+        "verse": "Therefore, since we are receiving a kingdom that cannot be shaken, let us be thankful, and so worship God acceptably with reverence and awe,"
+      },
+      {
+        "number": 100,
+        "location": "2 Peter 1:2",
+        "theme": "Grace",
+        "verse": "Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord."
+      },
+      {
+        "number": 101,
+        "location": "Hebrews 11:1",
+        "theme": "Faith",
+        "verse": "Now faith is confidence in what we hope for and assurance about what we do not see."
+      },
+      {
+        "number": 102,
+        "location": "Romans 10:17",
+        "theme": "Faith",
+        "verse": "So faith comes from hearing, and hearing through the word of Christ."
+      },
+      {
+        "number": 103,
+        "location": "Galatians 2:20",
+        "theme": "Faith",
+        "verse": "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me."
+      },
+      {
+        "number": 104,
+        "location": "Mark 11:24",
+        "theme": "Faith",
+        "verse": "Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours."
+      },
+      {
+        "number": 105,
+        "location": "Ephesians 2:8",
+        "theme": "Faith",
+        "verse": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God."
+      },
+      {
+        "number": 106,
+        "location": "Hebrews 11:6",
+        "theme": "Faith",
+        "verse": "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him."
+      },
+      {
+        "number": 107,
+        "location": "James 1:6",
+        "theme": "Faith",
+        "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind."
+      },
+      {
+        "number": 108,
+        "location": "Romans 4:20-21",
+        "theme": "Faith",
+        "verse": "Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God, being fully persuaded that God had power to do what he had promised."
+      },
+      {
+        "number": 109,
+        "location": "Hebrews 11:11",
+        "theme": "Faith",
+        "verse": "And by faith even Sarah, who was past childbearing age, was enabled to bear children because she considered him faithful who had made the promise."
+      },
+      {
+        "number": 110,
+        "location": "Matthew 17:20",
+        "theme": "Faith",
+        "verse": "He replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”"
+      },
+      {
+        "number": 111,
+        "location": "Hebrews 11:30",
+        "theme": "Faith",
+        "verse": "By faith the walls of Jericho fell, after the army had marched around them for seven days."
+      },
+      {
+        "number": 112,
+        "location": "1 Corinthians 2:5",
+        "theme": "Faith",
+        "verse": "so that your faith might not rest on human wisdom, but on God’s power."
+      },
+      {
+        "number": 113,
+        "location": "James 2:17",
+        "theme": "Faith",
+        "verse": "In the same way, faith by itself, if it is not accompanied by action, is dead."
+      },
+      {
+        "number": 114,
+        "location": "Romans 1:17",
+        "theme": "Faith",
+        "verse": "For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: “The righteous will live by faith.”"
+      },
+      {
+        "number": 115,
+        "location": "Hebrews 11:24-26",
+        "theme": "Faith",
+        "verse": "By faith Moses, when he had grown up, refused to be known as the son of Pharaoh’s daughter. He chose to be mistreated along with the people of God rather than to enjoy the fleeting pleasures of sin. He regarded disgrace for the sake of Christ as of greater value than the treasures of Egypt, because he was looking ahead to his reward."
+      },
+      {
+        "number": 116,
+        "location": "1 Peter 1:8-9",
+        "theme": "Faith",
+        "verse": "Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy, for you are receiving the end result of your faith, the salvation of your souls."
+      },
+      {
+        "number": 117,
+        "location": "Mark 9:23",
+        "theme": "Faith",
+        "verse": "“‘If you can’?” said Jesus. “Everything is possible for one who believes.”"
+      },
+      {
+        "number": 118,
+        "location": "1 Corinthians 16:13",
+        "theme": "Faith",
+        "verse": "Be on your guard; stand firm in the faith; be courageous; be strong."
+      },
+      {
+        "number": 119,
+        "location": "Galatians 3:26",
+        "theme": "Faith",
+        "verse": "So in Christ Jesus you are all children of God through faith."
+      },
+      {
+        "number": 120,
+        "location": "Hebrews 12:2",
+        "theme": "Faith",
+        "verse": "fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the throne of God."
+      },
+      {
+        "number": 121,
+        "location": "2 Corinthians 5:7",
+        "theme": "Faith",
+        "verse": "For we live by faith, not by sight."
+      },
+      {
+        "number": 122,
+        "location": "Ephesians 3:17",
+        "theme": "Faith",
+        "verse": "so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love,"
+      },
+      {
+        "number": 123,
+        "location": "1 Timothy 6:12",
+        "theme": "Faith",
+        "verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession in the presence of many witnesses."
+      },
+      {
+        "number": 124,
+        "location": "2 Corinthians 4:18",
+        "theme": "Faith",
+        "verse": "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal."
+      },
+      {
+        "number": 125,
+        "location": "Hebrews 10:39",
+        "theme": "Faith",
+        "verse": "But we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved."
+      },
+      {
+        "number": 126,
+        "location": "1 Corinthians 13:13",
+        "theme": "Faith",
+        "verse": "And now these three remain: faith, hope and love. But the greatest of these is love."
+      },
+      {
+        "number": 127,
+        "location": "1 Thessalonians 5:8",
+        "theme": "Faith",
+        "verse": "But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet."
+      },
+      {
+        "number": 128,
+        "location": "Romans 3:22",
+        "theme": "Faith",
+        "verse": "This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile."
+      },
+      {
+        "number": 129,
+        "location": "Hebrews 11:13",
+        "theme": "Faith",
+        "verse": "All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance, admitting that they were foreigners and strangers on earth."
+      },
+      {
+        "number": 130,
+        "location": "Philippians 4:13",
+        "theme": "Faith",
+        "verse": "I can do all this through him who gives me strength."
+      },
+      {
+        "number": 131,
+        "location": "1 Peter 5:9",
+        "theme": "Faith",
+        "verse": "Resist him, standing firm in the faith, because you know that the family of believers throughout the world is undergoing the same kind of sufferings."
+      },
+      {
+        "number": 132,
+        "location": "2 Corinthians 5:7",
+        "theme": "Faith",
+        "verse": "For we live by faith, not by sight."
+      },
+      {
+        "number": 133,
+        "location": "Hebrews 11:32-34",
+        "theme": "Faith",
+        "verse": "And what more shall I say? I do not have time to tell about Gideon, Barak, Samson and Jephthah, about David and Samuel and the prophets, who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions, quenched the fury of the flames, and escaped the edge of the sword; whose weakness was turned to strength; and who became powerful in battle and routed foreign armies."
+      },
+      {
+        "number": 134,
+        "location": "Romans 14:1",
+        "theme": "Faith",
+        "verse": "Accept the one whose faith is weak, without quarreling over disputable matters."
+      },
+      {
+        "number": 135,
+        "location": "2 Thessalonians 1:3",
+        "theme": "Faith",
+        "verse": "We ought always to thank God for you, brothers and sisters, and rightly so, because your faith is growing more and more, and the love all of you have for one another is increasing."
+      },
+      {
+        "number": 136,
+        "location": "Hebrews 11:7",
+        "theme": "Faith",
+        "verse": "By faith Noah, when warned about things not yet seen, in holy fear built an ark to save his family. By his faith he condemned the world and became heir of the righteousness that is in keeping with faith."
+      },
+      {
+        "number": 137,
+        "location": "Galatians 5:22-23",
+        "theme": "Faith",
+        "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."
+      },
+      {
+        "number": 138,
+        "location": "1 Peter 1:21",
+        "theme": "Faith",
+        "verse": "Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God."
+      },
+      {
+        "number": 139,
+        "location": "1 Corinthians 15:17",
+        "theme": "Faith",
+        "verse": "And if Christ has not been raised, your faith is futile; you are still in your sins."
+      },
+      {
+        "number": 140,
+        "location": "John 20:31",
+        "theme": "Faith",
+        "verse": "But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name."
+      },
+      {
+        "number": 141,
+        "location": "1 Timothy 4:12",
+        "theme": "Faith",
+        "verse": "Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity."
+      },
+      {
+        "number": 142,
+        "location": "Romans 12:3",
+        "theme": "Faith",
+        "verse": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you."
+      },
+      {
+        "number": 143,
+        "location": "Hebrews 6:12",
+        "theme": "Faith",
+        "verse": "We do not want you to become lazy, but to imitate those who through faith and patience inherit what has been promised."
+      },
+      {
+        "number": 144,
+        "location": "1 Corinthians 16:13",
+        "theme": "Faith",
+        "verse": "Be on your guard; stand firm in the faith; be courageous; be strong."
+      },
+      {
+        "number": 145,
+        "location": "Romans 15:13",
+        "theme": "Faith",
+        "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+      },
+      {
+        "number": 146,
+        "location": "Jude 1:20",
+        "theme": "Faith",
+        "verse": "But you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit,"
+      },
+      {
+        "number": 147,
+        "location": "1 Corinthians 13:2",
+        "theme": "Faith",
+        "verse": "If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing."
+      },
+      {
+          "number": 148,
+          "location": "Mark 5:36",
+          "theme": "Faith",
+          "verse": "But Jesus overheard them and said to Jairus, “Don’t be afraid. Just have faith."
+      },
+      {
+        "number": 149,
+        "location": "1 Timothy 6:11",
+        "theme": "Faith",
+        "verse": "But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness."
+      },
+      {
+        "number": 150,
+        "location": "Hebrews 11:24-26",
+        "theme": "Faith",
+        "verse": "By faith Moses, when he had grown up, refused to be known as the son of Pharaoh’s daughter. He chose to be mistreated along with the people of God rather than to enjoy the fleeting pleasures of sin. He regarded disgrace for the sake of Christ as of greater value than the treasures of Egypt, because he was looking ahead to his reward."
+      },
+      {
+        "number": 151,
+        "location": "Romans 15:13",
+        "theme": "Hope",
+        "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+      },
+      {
+        "number": 152,
+        "location": "Hebrews 11:1",
+        "theme": "Hope",
+        "verse": "Now faith is confidence in what we hope for and assurance about what we do not see."
+      },
+      {
+        "number": 153,
+        "location": "Psalm 71:5",
+        "theme": "Hope",
+        "verse": "For you, Lord, are my hope, my trust, Lord, from my youth."
+      },
+      {
+        "number": 154,
+        "location": "Jeremiah 29:11",
+        "theme": "Hope",
+        "verse": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future."
+      },
+      {
+        "number": 155,
+        "location": "Romans 5:5",
+        "theme": "Hope",
+        "verse": "And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+      },
+      {
+        "number": 156,
+        "location": "Psalm 147:11",
+        "theme": "Hope",
+        "verse": "the Lord delights in those who fear him, who put their hope in his unfailing love."
+      },
+      {
+        "number": 157,
+        "location": "Lamentations 3:24",
+        "theme": "Hope",
+        "verse": "“The Lord is my portion,” says my soul, “therefore I will hope in him.”"
+      },
+      {
+        "number": 158,
+        "location": "Titus 1:2",
+        "theme": "Hope",
+        "verse": "In the hope of eternal life, which God, who does not lie, promised before the beginning of time."
+      },
+      {
+        "number": 159,
+        "location": "Psalm 130:5",
+        "theme": "Hope",
+        "verse": "I wait for the Lord, my whole being waits, and in his word I put my hope."
+      },
+      {
+        "number": 160,
+        "location": "Romans 12:12",
+        "theme": "Hope",
+        "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
+      },
+      {
+        "number": 161,
+        "location": "Psalm 31:24",
+        "theme": "Hope",
+        "verse": "Be strong and take heart, all you who hope in the Lord."
+      },
+      {
+        "number": 162,
+        "location": "1 Corinthians 13:13",
+        "theme": "Hope",
+        "verse": "And now these three remain: faith, hope and love. But the greatest of these is love."
+      },
+      {
+        "number": 163,
+        "location": "Hebrews 6:19",
+        "theme": "Hope",
+        "verse": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain."
+      },
+      {
+        "number": 164,
+        "location": "Proverbs 24:14",
+        "theme": "Hope",
+        "verse": "Know also that wisdom is like honey for you: If you find it, there is a future hope for you, and your hope will not be cut off."
+      },
+      {
+        "number": 165,
+        "location": "1 Peter 1:3",
+        "theme": "Hope",
+        "verse": "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead."
+      },
+      {
+        "number": 166,
+        "location": "Psalm 33:18",
+        "theme": "Hope",
+        "verse": "But the eyes of the Lord are on those who fear him, on those whose hope is in his unfailing love."
+      },
+      {
+        "number": 167,
+        "location": "Psalm 42:5",
+        "theme": "Hope",
+        "verse": "Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God."
+      },
+      {
+        "number": 168,
+        "location": "Romans 8:24-25",
+        "theme": "Hope",
+        "verse": "For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have? But if we hope for what we do not yet have, we wait for it patiently."
+      },
+      {
+        "number": 169,
+        "location": "Psalm 33:22",
+        "theme": "Hope",
+        "verse": "May your unfailing love be with us, Lord, even as we put our hope in you."
+      },
+      {
+        "number": 170,
+        "location": "Psalm 119:114",
+        "theme": "Hope",
+        "verse": "You are my refuge and my shield; I have put my hope in your word."
+      },
+      {
+        "number": 171,
+        "location": "Isaiah 40:31",
+        "theme": "Hope",
+        "verse": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
+      },
+      {
+        "number": 172,
+        "location": "Romans 15:4",
+        "theme": "Hope",
+        "verse": "For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope."
+      },
+      {
+        "number": 173,
+        "location": "Psalm 146:5",
+        "theme": "Hope",
+        "verse": "Blessed are those whose help is the God of Jacob, whose hope is in the Lord their God."
+      },
+      {
+        "number": 174,
+        "location": "Colossians 1:27",
+        "theme": "Hope",
+        "verse": "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory."
+      },
+      {
+        "number": 175,
+        "location": "Psalm 33:20",
+        "theme": "Hope",
+        "verse": "We wait in hope for the Lord; he is our help and our shield."
+      },
+      {
+        "number": 176,
+        "location": "Job 11:18",
+        "theme": "Hope",
+        "verse": "You will be secure, because there is hope; you will look about you and take your rest in safety."
+      },
+      {
+        "number": 177,
+        "location": "Psalm 130:7",
+        "theme": "Hope",
+        "verse": "Israel, put your hope in the Lord, for with the Lord is unfailing love and with him is full redemption."
+      },
+      {
+        "number": 178,
+        "location": "Romans 5:2-5",
+        "theme": "Hope",
+        "verse": "Through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+      },
+      {
+        "number": 179,
+        "location": "Psalm 71:14",
+        "theme": "Hope",
+        "verse": "As for me, I will always have hope; I will praise you more and more."
+      },
+      {
+        "number": 180,
+        "location": "Psalm 119:74",
+        "theme": "Hope",
+        "verse": "May those who fear you rejoice when they see me, for I have put my hope in your word."
+      },
+      {
+        "number": 181,
+        "location": "Romans 12:12",
+        "theme": "Hope",
+        "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
+      },
+      {
+        "number": 182,
+        "location": "Psalm 33:21",
+        "theme": "Hope",
+        "verse": "In him our hearts rejoice, for we trust in his holy name."
+      },
+      {
+        "number": 183,
+        "location": "Psalm 119:81",
+        "theme": "Hope",
+        "verse": "My soul faints with longing for your salvation, but I have put my hope in your word."
+      },
+      {
+        "number": 184,
+        "location": "Romans 15:13",
+        "theme": "Hope",
+        "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+      },
+      {
+        "number": 185,
+        "location": "Hebrews 10:23",
+        "theme": "Hope",
+        "verse": "Let us hold unswervingly to the hope we profess, for he who promised is faithful."
+      },
+      {
+        "number": 186,
+        "location": "Psalm 146:5",
+        "theme": "Hope",
+        "verse": "Blessed are those whose help is the God of Jacob, whose hope is in the Lord their God."
+      },
+      {
+        "number": 187,
+        "location": "Romans 5:2-5",
+        "theme": "Hope",
+        "verse": "Through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+      },
+      {
+        "number": 188,
+        "location": "Psalm 71:14",
+        "theme": "Hope",
+        "verse": "As for me, I will always have hope; I will praise you more and more."
+      },
+      {
+        "number": 189,
+        "location": "Psalm 119:74",
+        "theme": "Hope",
+        "verse": "May those who fear you rejoice when they see me, for I have put my hope in your word."
+      },
+      {
+        "number": 190,
+        "location": "Romans 12:12",
+        "theme": "Hope",
+        "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
+      },
+      {
+        "number": 191,
+        "location": "Psalm 33:21",
+        "theme": "Hope",
+        "verse": "In him our hearts rejoice, for we trust in his holy name."
+      },
+      {
+        "number": 192,
+        "location": "Psalm 119:81",
+        "theme": "Hope",
+        "verse": "My soul faints with longing for your salvation, but I have put my hope in your word."
+      },
+      {
+        "number": 193,
+        "location": "Romans 15:13",
+        "theme": "Hope",
+        "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+      },
+      {
+        "number": 194,
+        "location": "Hebrews 10:23",
+        "theme": "Hope",
+        "verse": "Let us hold unswervingly to the hope we profess, for he who promised is faithful."
+      },
+      {
+        "number": 195,
+        "location": "Psalm 146:5",
+        "theme": "Hope",
+        "verse": "Blessed are those whose help is the God of Jacob, whose hope is in the Lord their God."
+      },
+      {
+        "number": 196,
+        "location": "Romans 5:2-5",
+        "theme": "Hope",
+        "verse": "Through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+      },
+      {
+        "number": 197,
+        "location": "Psalm 71:14",
+        "theme": "Hope",
+        "verse": "As for me, I will always have hope; I will praise you more and more."
+      },
+      {
+        "number": 198,
+        "location": "Psalm 119:74",
+        "theme": "Hope",
+        "verse": "May those who fear you rejoice when they see me, for I have put my hope in your word."
+      },
+      {
+        "number": 199,
+        "location": "Romans 12:12",
+        "theme": "Hope",
+        "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
+      },
+      {
+        "number": 200,
+        "location": "Psalm 33:21",
+        "theme": "Hope",
+        "verse": "In him our hearts rejoice, for we trust in his holy name."
+      },
+      {
+        "number": 201,
+        "location": "Isaiah 41:10",
+        "theme": "Overcoming Challenges",
+        "verse": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+      },
+      {
+        "number": 202,
+        "location": "Romans 8:37",
+        "theme": "Overcoming Challenges",
+        "verse": "No, in all these things we are more than conquerors through him who loved us."
+      },
+      {
+        "number": 203,
+        "location": "Philippians 4:13",
+        "theme": "Overcoming Challenges",
+        "verse": "I can do all this through him who gives me strength."
+      },
+      {
+        "number": 204,
+        "location": "1 Corinthians 10:13",
+        "theme": "Overcoming Challenges",
+        "verse": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it."
+      },
+      {
+        "number": 205,
+        "location": "Joshua 1:9",
+        "theme": "Overcoming Challenges",
+        "verse": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
+      },
+      {
+        "number": 206,
+        "location": "John 16:33",
+        "theme": "Overcoming Challenges",
+        "verse": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world."
+      },
+      {
+        "number": 207,
+        "location": "2 Corinthians 12:9",
+        "theme": "Overcoming Challenges",
+        "verse": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me."
+      },
+      {
+        "number": 208,
+        "location": "Psalm 34:17",
+        "theme": "Overcoming Challenges",
+        "verse": "The righteous cry out, and the Lord hears them; he delivers them from all their troubles."
+      },
+      {
+        "number": 209,
+        "location": "Romans 12:12",
+        "theme": "Overcoming Challenges",
+        "verse": "Be joyful in hope, patient in affliction, faithful in prayer."
+      },
+      {
+        "number": 210,
+        "location": "Psalm 23:4",
+        "theme": "Overcoming Challenges",
+        "verse": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+      },
+      {
+        "number": 211,
+        "location": "James 1:12",
+        "theme": "Overcoming Challenges",
+        "verse": "Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him."
+      },
+      {
+        "number": 212,
+        "location": "Psalm 138:7",
+        "theme": "Overcoming Challenges",
+        "verse": "Though I walk in the midst of trouble, you preserve my life. You stretch out your hand against the anger of my foes; with your right hand you save me."
+      },
+      {
+        "number": 213,
+        "location": "2 Timothy 1:7",
+        "theme": "Overcoming Challenges",
+        "verse": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."
+      },
+      {
+        "number": 214,
+        "location": "Psalm 55:22",
+        "theme": "Overcoming Challenges",
+        "verse": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
+      },
+      {
+        "number": 215,
+        "location": "1 Peter 5:7",
+        "theme": "Overcoming Challenges",
+        "verse": "Cast all your anxiety on him because he cares for you."
+      },
+      {
+        "number": 216,
+        "location": "Isaiah 40:29",
+        "theme": "Overcoming Challenges",
+        "verse": "He gives strength to the weary and increases the power of the weak."
+      },
+      {
+        "number": 217,
+        "location": "Isaiah 43:2",
+        "theme": "Overcoming Challenges",
+        "verse": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze."
+      },
+      {
+        "number": 218,
+        "location": "Romans 5:3-5",
+        "theme": "Overcoming Challenges",
+        "verse": "Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+      },
+      {
+        "number": 219,
+        "location": "Romans 8:28",
+        "theme": "Overcoming Challenges",
+        "verse": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+      },
+      {
+        "number": 220,
+        "location": "Psalm 37:5",
+        "theme": "Overcoming Challenges",
+        "verse": "Commit your way to the Lord; trust in him and he will do this:"
+      },
+      {
+        "number": 221,
+        "location": "Romans 15:13",
+        "theme": "Overcoming Challenges",
+        "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+      },
+      {
+        "number": 222,
+        "location": "Psalm 34:4",
+        "theme": "Overcoming Challenges",
+        "verse": "I sought the Lord, and he answered me; he delivered me from all my fears."
+      },
+      {
+        "number": 223,
+        "location": "Philippians 4:6-7",
+        "theme": "Overcoming Challenges",
+        "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+      },
+      {
+        "number": 224,
+        "location": "Psalms 34:17",
+        "theme": "Overcoming Challenges",
+        "verse": "The righteous cry out, and the Lord hears them; he delivers them from all their troubles."
+      },
+      {
+        "number": 225,
+        "location": "Deuteronomy 31:6",
+        "theme": "Overcoming Challenges",
+        "verse": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you."
+      },
+      {
+        "number": 226,
+        "location": "Psalm 18:2",
+        "theme": "Overcoming Challenges",
+        "verse": "The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold."
+      },
+      {
+        "number": 227,
+        "location": "Romans 12:21",
+        "theme": "Overcoming Challenges",
+        "verse": "Do not be overcome by evil, but overcome evil with good."
+      },
+      {
+        "number": 228,
+        "location": "John 14:27",
+        "theme": "Overcoming Challenges",
+        "verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+      },
+      {
+        "number": 229,
+        "location": "Proverbs 3:5-6",
+        "theme": "Overcoming Challenges",
+        "verse": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+      },
+      {
+        "number": 230,
+        "location": "2 Corinthians 4:8-9",
+        "theme": "Overcoming Challenges",
+        "verse": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed."
+      },
+      {
+        "number": 231,
+        "location": "Psalm 9:9",
+        "theme": "Overcoming Challenges",
+        "verse": "The Lord is a refuge for the oppressed, a stronghold in times of trouble."
+      },
+      {
+        "number": 232,
+        "location": "Isaiah 41:13",
+        "theme": "Overcoming Challenges",
+        "verse": "For I am the Lord your God who takes hold of your right hand and says to you, Do not fear; I will help you."
+      },
+      {
+        "number": 233,
+        "location": "Psalm 55:22",
+        "theme": "Overcoming Challenges",
+        "verse": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
+      },
+      {
+        "number": 234,
+        "location": "1 Peter 5:7",
+        "theme": "Overcoming Challenges",
+        "verse": "Cast all your anxiety on him because he cares for you."
+      },
+      {
+        "number": 235,
+        "location": "Isaiah 40:29",
+        "theme": "Overcoming Challenges",
+        "verse": "He gives strength to the weary and increases the power of the weak."
+      },
+      {
+        "number": 236,
+        "location": "Isaiah 43:2",
+        "theme": "Overcoming Challenges",
+        "verse": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze."
+      },
+      {
+        "number": 237,
+        "location": "Romans 5:3-5",
+        "theme": "Overcoming Challenges",
+        "verse": "Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+      },
+      {
+        "number": 238,
+        "location": "Romans 8:28",
+        "theme": "Overcoming Challenges",
+        "verse": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+      },
+      {
+        "number": 239,
+        "location": "Psalm 37:5",
+        "theme": "Overcoming Challenges",
+        "verse": "Commit your way to the Lord; trust in him and he will do this:"
+      },
+      {
+        "number": 240,
+        "location": "Romans 15:13",
+        "theme": "Overcoming Challenges",
+        "verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+      },
+      {
+        "number": 241,
+        "location": "Psalm 34:4",
+        "theme": "Overcoming Challenges",
+        "verse": "I sought the Lord, and he answered me; he delivered me from all my fears."
+      },
+      {
+        "number": 242,
+        "location": "Philippians 4:6-7",
+        "theme": "Overcoming Challenges",
+        "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+      },
+      {
+        "number": 243,
+        "location": "1 John 5:4",
+        "theme": "Overcoming Challenges",
+        "verse": "For everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith."
+      },
+      {
+        "number": 244,
+        "location": "Deuteronomy 31:6",
+        "theme": "Overcoming Challenges",
+        "verse": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you."
+      },
+      {
+        "number": 245,
+        "location": "Psalm 18:2",
+        "theme": "Overcoming Challenges",
+        "verse": "The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold."
+      },
+      {
+        "number": 246,
+        "location": "Romans 12:21",
+        "theme": "Overcoming Challenges",
+        "verse": "Do not be overcome by evil, but overcome evil with good."
+      },
+      {
+        "number": 247,
+        "location": "John 14:27",
+        "theme": "Overcoming Challenges",
+        "verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+      },
+      {
+        "number": 248,
+        "location": "Proverbs 3:5-6",
+        "theme": "Overcoming Challenges",
+        "verse": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+      },
+      {
+        "number": 249,
+        "location": "2 Corinthians 4:8-9",
+        "theme": "Overcoming Challenges",
+        "verse": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed."
+      },
+      {
+        "number": 250,
+        "location": "Psalm 9:9",
+        "theme": "Overcoming Challenges",
+        "verse": "The Lord is a refuge for the oppressed, a stronghold in times of trouble."
+      },
+      {
+        "number": 251,
+        "location": "Hebrews 4:12",
+        "theme": "Faith",
+        "verse": "For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart."
+      },
+      {
+        "number": 252,
+        "location": "Proverbs 5:23",
+        "theme": "Overcoming Challenges",
+        "verse": "Guard your heart above all else, for it determines the course of your life."
+      },
+      {
+        "number": 253,
+        "location": "2 Timothy 1:7",
+        "theme": "Overcoming Challenges",
+        "verse": "For God has not given us a spirit of fear, but of power and love and of a sound mind."
+      },
+      {
+        "number": 254,
+        "location": "Acts 16:31",
+        "theme": "Faith",
+        "verse": "Believe in the Lord Jesus and you will be saved."
+      },
+      {
+        "number": 255,
+        "location": "1 Peter 1:7",
+        "theme": "Faith",
+        "verse": "When your faith remains strong through many trials, it will bring you much praise and glory and honor on the day when Jesus Christ is revealed to the whole world."
+      },
+      {
+        "number": 256,
+        "location": "Hebrews 11:8",
+        "theme": "Faith",
+        "verse": "It was by faith that Abraham obeyed when God called him to leave home and go to another land that God would give him as his inheritance. He went without knowing where he was going."
+      },
+      {
+        "number": 257,
+        "location": "Galatians 3:22",
+        "theme": "Faith",
+        "verse": "But the Scriptures declare that we are all prisoners of sin, so we receive God’s promise of freedom only by believing in Jesus Christ."
+      },
+      {
+        "number": 258,
+        "location": "John 14:1",
+        "theme": "Overcoming Challenges",
+        "verse": "'Don't let your hearts be troubled. Trust in God, and trust also in me.'"
+      },
+      {
+        "number": 259,
+        "location": "Psalm 20:7",
+        "theme": "Faith",
+        "verse": "Some trust in chariots and some in horses, but we trust in the name of the LORD our God."
+      },
+      {
+        "number": 260,
+        "location": "Psalm 25:1",
+        "theme": "Faith",
+        "verse": "n you, LORD my God, I put my trust."
+      }
+    ]
